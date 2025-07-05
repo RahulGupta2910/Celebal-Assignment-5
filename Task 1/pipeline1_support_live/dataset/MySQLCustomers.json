@@ -1,0 +1,15 @@
+{
+    "name": "MySQLCustomers",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "mysql_local_ngrok",
+            "type": "LinkedServiceReference"
+        },
+        "annotations": [],
+        "type": "MySqlTable",
+        "schema": [],
+        "typeProperties": {
+            "tableName": "`customers`"
+        }
+    }
+}

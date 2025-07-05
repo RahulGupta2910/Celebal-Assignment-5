@@ -1,0 +1,19 @@
+{
+    "name": "AvroOutput",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "AzureBlobStorage1",
+            "type": "LinkedServiceReference"
+        },
+        "annotations": [],
+        "type": "Avro",
+        "typeProperties": {
+            "location": {
+                "type": "AzureBlobStorageLocation",
+                "fileName": "customers.avro",
+                "container": "output-data"
+            }
+        },
+        "schema": {}
+    }
+}

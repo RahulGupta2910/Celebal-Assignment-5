@@ -1,0 +1,23 @@
+{
+    "now": "2025-07-04T12:23:52.765Z",
+    "perfNow": 7095159.700000048,
+    "diagnosticCorrelation": "66a20c25-c674-44c2-ba51-dd7b464fc2e7",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.061625.7",
+        "environmentType": 3,
+        "resourceName": "internship-adf-celebal",
+        "resourceRegion": "centralindia",
+        "resourceGroup": "internship-rg",
+        "subscriptionId": "4b697afd-e4c5-4b02-a867-3c947bb49a87",
+        "sessionId": "j5ec14IPh0gI0aA5fQdmEq",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "e01c5741-a8ad-461a-a8ef-f54239a2413d"
+    },
+    "additionalInfo": {
+        "selectedResource": "MySQLCustomers",
+        "selectedResourceType": "dataset"
+    }
+}

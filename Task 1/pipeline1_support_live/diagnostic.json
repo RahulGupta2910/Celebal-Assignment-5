@@ -1,0 +1,23 @@
+{
+    "now": "2025-07-04T12:19:57.758Z",
+    "perfNow": 6860152.600000024,
+    "diagnosticCorrelation": "07f94694-35d7-486e-943a-7c48d8339f91",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.061625.7",
+        "environmentType": 3,
+        "resourceName": "internship-adf-celebal",
+        "resourceRegion": "centralindia",
+        "resourceGroup": "internship-rg",
+        "subscriptionId": "4b697afd-e4c5-4b02-a867-3c947bb49a87",
+        "sessionId": "j5ec14IPh0gI0aA5fQdmEq",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "e01c5741-a8ad-461a-a8ef-f54239a2413d"
+    },
+    "additionalInfo": {
+        "selectedResource": "pipeline1",
+        "selectedResourceType": "pipeline"
+    }
+}

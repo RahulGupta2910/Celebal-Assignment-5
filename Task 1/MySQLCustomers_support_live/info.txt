@@ -1,0 +1,6 @@
+selected resource name:		MySQLCustomers
+selected resource type:		dataset
+factory name:			internship-adf-celebal
+factory location:		centralindia
+subscription id:		4b697afd-e4c5-4b02-a867-3c947bb49a87
+time of download (UTC):		Fri, 04 Jul 2025 12:23:52 GMT
