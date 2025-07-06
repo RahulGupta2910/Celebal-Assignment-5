@@ -1,7 +1,7 @@
-Objective:
+# Objective:
 Perform full database replication by copying all tables and their data from a source database to a target database, ensuring schema and data consistency for backup, migration, or environment sync.
 
-Approach:
+## Approach:
 
 Created a source database celebal_source with two well-structured tables:
 
